@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile NoahYehalashet.github.io/.htpasswd
+AuthUserFile NoahYehalashet.github.io/pw/.htpasswd
 require valid-user
